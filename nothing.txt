@@ -1,0 +1,5 @@
+style: create profile card demo (CSS practice)
+
+- Built a mock profile card with name, title, and GitHub link  
+- Practiced responsive layout, typography, and spacing  
+- Experimented with basic CSS properties for styling  
